@@ -37,15 +37,15 @@ const Feature1 = () => {
             <h1 className="px-4 text-2xl uppercase ">MAKE AN</h1>
             <h1 className="px-4 text-4xl uppercase font-bold">APPOINTMENT</h1>
           </div>
-          <div className="  my-4 py-2  flex items-center gap-2 justify-center">
-            <div className="flex flex-col">
+          <div className="  my-4 py-2  lg:flex items-center gap-2 justify-center">
+            <div className="flex flex-col my-2">
               <input
                 id="email"
                 className="text-gray-600 dark:text-gray-400 focus:outline-none focus:border focus:border-yellow-700 dark:focus:border-yellow-700 dark:border-gray-700 dark:bg-gray-800 bg-white font-normal w-64 h-10 flex items-center pl-3 text-sm border-gray-300 rounded border shadow"
                 placeholder="Email Address"
               />
             </div>
-            <div className="flex flex-col ">
+            <div className="flex flex-col my-2 ">
               <input
                 id="email"
                 className="text-gray-600 dark:text-gray-400 focus:outline-none focus:border focus:border-yellow-700 dark:focus:border-yellow-700 dark:border-gray-700 dark:bg-gray-800 bg-white font-normal w-64 h-10 flex items-center pl-3 text-sm border-gray-300 rounded border shadow"
@@ -53,15 +53,15 @@ const Feature1 = () => {
               />
             </div>
           </div>
-          <div className="  my-4 py-2  flex items-center gap-2 justify-center">
-            <div className="flex flex-col">
+          <div className="  my-4 py-2  lg:flex items-center gap-2 justify-center">
+            <div className="flex flex-col my-2">
               <input
                 id="email"
                 className="text-gray-600 dark:text-gray-400 focus:outline-none focus:border focus:border-yellow-700 dark:focus:border-yellow-700 dark:border-gray-700 dark:bg-gray-800 bg-white font-normal w-64 h-10 flex items-center pl-3 text-sm border-gray-300 rounded border shadow"
                 placeholder="Phone Number"
               />
             </div>
-            <div className="flex flex-col ">
+            <div className="flex flex-col my-2">
               <input
                 id="time"
                 type="time"
