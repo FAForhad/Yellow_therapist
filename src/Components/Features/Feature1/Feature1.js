@@ -39,10 +39,19 @@ const Feature1 = () => {
           </div>
         </div>
         <div className="bg-yellow-100  opacity-50 py-12  px-8 text-center">
-          <div className="my-6">
+          <div className="lg:my-6 lg:mb-16">
             <h1 className="px-4 text-2xl uppercase ">OPENING</h1>
             <h1 className="px-4 text-4xl uppercase font-bold">HOURS</h1>
           </div>
+          <h2 className="px-4 lg:mx-14  my-4 py-2 border-b-2 border-black flex items-center gap-2 justify-between">
+            Monday – Friday <span>9.00 – 18.00</span>
+          </h2>
+          <h2 className="px-4 lg:mx-14 my-4 py-2 border-b-2 border-black flex items-center gap-2 justify-between">
+            Saturday <span>9.30 – 18.30</span>
+          </h2>
+          <h2 className="px-4 lg:mx-14 my-4 py-2 border-b-2 border-black flex items-center gap-2 justify-between">
+            Sunday <span>Closed</span>
+          </h2>
         </div>
       </div>
     </div>
