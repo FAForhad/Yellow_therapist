@@ -3,7 +3,7 @@ import new_tyt_logo_kinda_yellow from "../../assets/new_tyt_logo_kinda_yellow.pn
 const Navber = () => {
   return (
     <div>
-      <header class="lg:py-12 bg-yellow-50 shadow-sm ">
+      <header class="lg:py-12  shadow-sm ">
         <div class="mx-auto border-0 flex h-16 max-w-screen-xl items-center justify-between px-4">
           <div class="flex w-0 flex-1 lg:hidden">
             <img className="h-8 max-w-md" src={new_tyt_logo_kinda_yellow} alt="" />
