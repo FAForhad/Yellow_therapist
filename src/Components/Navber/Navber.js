@@ -21,7 +21,7 @@ const Navber = () => {
           <div class="flex w-0 flex-1 justify-end items-center lg:hidden">
             <div className="py-16 ">
               <a
-                href="#"
+                href="https://theyellowtherapist.com/login"
                 class="rounded-sm  hover:text-yellow-300 uppercase text-sm font-bold text-gray-500"
               >
                 Log in
@@ -29,7 +29,7 @@ const Navber = () => {
             </div>
             <div className="py-2">
               <a
-                href="#"
+                href="https://theyellowtherapist.com/signup"
                 class="rounded-sm  px-4  hover:text-yellow-300 uppercase text-sm font-bold text-gray-500"
               >
                 Sign up
@@ -42,24 +42,36 @@ const Navber = () => {
             aria-label="Site Nav"
             class="hidden items-center pt-4 justify-center gap-8 uppercase text-sm font-bold lg:flex lg:w-0 lg:flex-1 "
           >
-            <a class="text-gray-500 hover:text-yellow-300 " href="">
+            <a
+              class="text-gray-500 hover:text-yellow-300 "
+              href="https://theyellowtherapist.com/therapists"
+            >
               Therapists
             </a>
-            <a class="text-gray-500 hover:text-yellow-300 " href="">
+            <a
+              class="text-gray-500 hover:text-yellow-300 "
+              href="https://theyellowtherapist.com/tytfs"
+            >
               TYTFS
             </a>
-            <a class="text-gray-500 hover:text-yellow-300 " href="">
+            <a
+              class="text-gray-500 hover:text-yellow-300 "
+              href="https://theyellowtherapist.com/#about"
+            >
               About TYT
             </a>
-            <a class="text-gray-500 hover:text-yellow-300 " href="">
+            <a
+              class="text-gray-500 hover:text-yellow-300 "
+              href="https://theyellowtherapist.com/contact"
+            >
               Contact
             </a>
           </nav>
 
-          <div class="hidden items-center lg:flex">
+          <div class="hidden items-center lg:flex mt-3">
             <div className="py-16 ">
               <a
-                href="#"
+                href="https://theyellowtherapist.com/login"
                 class="rounded-sm  hover:text-yellow-300 uppercase text-sm font-bold text-gray-500"
               >
                 Log in
@@ -67,7 +79,7 @@ const Navber = () => {
             </div>
             <div className="py-16 ">
               <a
-                href="#"
+                href="https://theyellowtherapist.com/signup"
                 class="rounded-sm  px-12  hover:text-yellow-300 uppercase text-sm font-bold text-gray-500"
               >
                 Sign up
@@ -78,16 +90,28 @@ const Navber = () => {
 
         <div class=" lg:hidden">
           <nav class="flex items-center justify-center overflow-x-auto p-4 text-sm font-medium">
-            <a class="text-gray-500 pl-4 hover:text-yellow-300 " href="">
+            <a
+              class="text-gray-500 pl-4 hover:text-yellow-300 "
+              href="https://theyellowtherapist.com/therapists"
+            >
               Therapists
             </a>
-            <a class="text-gray-500 pl-4 hover:text-yellow-300 " href="">
+            <a
+              class="text-gray-500 pl-4 hover:text-yellow-300 "
+              href="https://theyellowtherapist.com/tytfs"
+            >
               TYTFS
             </a>
-            <a class="text-gray-500 pl-4 hover:text-yellow-300 " href="">
+            <a
+              class="text-gray-500 pl-4 hover:text-yellow-300 "
+              href="https://theyellowtherapist.com/#about"
+            >
               About TYT
             </a>
-            <a class="text-gray-500 pl-4 hover:text-yellow-300 " href="">
+            <a
+              class="text-gray-500 pl-4 hover:text-yellow-300 "
+              href="https://theyellowtherapist.com/contact"
+            >
               Contact
             </a>
           </nav>
