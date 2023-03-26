@@ -5,6 +5,7 @@ import Banner from "./Components/Banner/Banner";
 import Feature1 from "./Components/Features/Feature1/Feature1";
 import Footer from "./Components/Footer/Footer";
 import Feature2 from "./Components/Features/Feature2/Feature2";
+import Feature3 from "./Components/Features/Feature3/Feature3";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Banner></Banner>
       <Feature1></Feature1>
       <Feature2></Feature2>
+      <Feature3></Feature3>
       <Footer></Footer>
     </div>
   );

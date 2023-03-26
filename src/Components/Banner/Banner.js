@@ -23,7 +23,7 @@ const Banner = () => {
             <div class="mt-8 flex flex-wrap gap-4 text-center">
               <a
                 href="https://theyellowtherapist.com/"
-                class="block w-full rounded bg-yellow-400 px-12 py-3 text-sm font-medium text-gray-700 shadow hover:bg-yellow-500 focus:outline-none focus:ring active:bg-yellow-400 sm:w-auto"
+                class="block w-full rounded-xl bg-yellow-400 px-12 py-5 text-sm uppercase font-medium text-white shadow hover:bg-gray-50 hover:text-yellow-500 border-yellow-400 border-2 tran transition translate-60 focus:outline-none focus:ring active:bg-yellow-400 sm:w-auto"
               >
                 Get Started
               </a>
