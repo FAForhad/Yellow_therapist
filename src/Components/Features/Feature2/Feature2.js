@@ -6,7 +6,7 @@ const Feature2 = () => {
       <div>
         <div className="flex flex-col mt-10 lg:flex-row items-stretch justify-between lg:px-0 px-6 lg:py-20 py-8 2xl:mx-auto 2xl:container">
           <div className="z-30 relative lg:w-1/2">
-            <div className="hidden bg-yellow-100 border-yellow-300 border-2 w-full lg:w-10/12 lg:h-full lg:flex justify-end items-center">
+            <div className="hidden bg-yellow-50 border-yellow-200 border-2 w-full lg:w-10/12 lg:h-full lg:flex justify-end items-center">
               <div className="w-full lg:w-auto lg:-mr-32">
                 <img
                   src="https://img.freepik.com/free-vector/patient-psychologist-office-man-talk-doctor_107791-9847.jpg?w=1380&t=st=1679753159~exp=1679753759~hmac=91b49f890ac6715926b7c59a4bd2bc30586be573f6d867b292f6b1ac88e62d1b"

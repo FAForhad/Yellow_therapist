@@ -7,6 +7,7 @@ import Footer from "./Components/Footer/Footer";
 import Feature2 from "./Components/Features/Feature2/Feature2";
 import Feature3 from "./Components/Features/Feature3/Feature3";
 import Feature4 from "./Components/Features/Feature4/Feature4";
+import Stat from "./Components/Stat/Stat";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Feature2></Feature2>
       <Feature3></Feature3>
       <Feature4></Feature4>
+      <Stat></Stat>
       <Footer></Footer>
     </div>
   );

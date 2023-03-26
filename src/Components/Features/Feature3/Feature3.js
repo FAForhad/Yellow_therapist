@@ -52,7 +52,7 @@ const Feature3 = () => {
               </div>
             </div>
             <div className="z-30 relative lg:w-1/2">
-              <div className="hidden bg-yellow-100 border-yellow-300 border-2 w-full lg:w-10/12 lg:h-full lg:flex justify-end items-center">
+              <div className="hidden bg-yellow-50 border-yellow-200 border-2 w-full lg:w-10/12 lg:h-full lg:flex justify-end items-center">
                 <div className="w-full lg:w-auto lg:-ml-32">
                   <img
                     src="https://img.freepik.com/free-vector/people-psychologist-counseling-patient-characters-communicate-with-doctor-about-mental-problems-child-family-couple-men-women-talking-with-specialist-line-art-flat-vector-illustration-set_107791-9918.jpg?w=1380&t=st=1679851158~exp=1679851758~hmac=0e62f1e83c0887732cadf060f98388bba6a429f133b36986d35f749a4f9d1a9f"
