@@ -8,6 +8,7 @@ import Feature2 from "./Components/Features/Feature2/Feature2";
 import Feature3 from "./Components/Features/Feature3/Feature3";
 import Feature4 from "./Components/Features/Feature4/Feature4";
 import Stat from "./Components/Stat/Stat";
+import Subscribe from "./Components/Subscribe/Subscribe";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Feature2></Feature2>
       <Feature3></Feature3>
       <Feature4></Feature4>
+      <Subscribe></Subscribe>
       <Stat></Stat>
       <Footer></Footer>
     </div>
