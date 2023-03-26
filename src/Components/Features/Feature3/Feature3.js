@@ -17,7 +17,7 @@ const Feature3 = () => {
                   possible between the one who needs help and the one who can provide- is what we
                   are striving for.
                 </p>
-                <button className="rounded-xl bg-yellow-400 px-12 py-5 dark:bg-white dark:hover:bg-yellow-400 dark:hover:text-white dark:text-yellow-500  w-full mt-8 text-base justify-between focus:ring-2 focus:ring-offset-2  focus:outline-none hover:bg-yellow-500 font-medium leading-none  flex items-center  text-white shadow  hover:text-yellow-500 border-yellow-400 border-2 tran transition translate-60  active:bg-yellow-400 sm:w-auto">
+                <button className="rounded-xl bg-yellow-400 px-12 py-5 dark:bg-white dark:hover:bg-yellow-400 dark:hover:text-white dark:text-yellow-500  w-full mt-8 text-base justify-between focus:ring-2 focus:ring-offset-2  focus:outline-none hover:bg-yellow-500 font-medium leading-none  flex items-center  text-white shadow  hover:text-yellow-500 border-yellow-400 border-2 transition translate-60  active:bg-yellow-400 sm:w-auto">
                   About TYT
                   <div className="ml-2 mt-0.5">
                     <svg
@@ -52,11 +52,10 @@ const Feature3 = () => {
               </div>
             </div>
             <div className="z-30 relative lg:w-1/2">
-              <div className="hidden dark:bg-gray-200 bg-gray-100 w-full lg:w-10/12 lg:h-full lg:flex justify-end items-center">
+              <div className="hidden bg-yellow-100 border-yellow-300 border-2 w-full lg:w-10/12 lg:h-full lg:flex justify-end items-center">
                 <div className="w-full lg:w-auto lg:-ml-32">
                   <img
-                    src="https://img.freepik.com/free-vector/patient-psychologist-office-man-talk-doctor_107791-9847.jpg?w=1380&t=st=1679753159~exp=1679753759~hmac=91b49f890ac6715926b7c59a4bd2bc30586be573f6d867b292f6b1ac88e62d1b"
-                    alt="image with decent chairs"
+                    src="https://img.freepik.com/free-vector/people-psychologist-counseling-patient-characters-communicate-with-doctor-about-mental-problems-child-family-couple-men-women-talking-with-specialist-line-art-flat-vector-illustration-set_107791-9918.jpg?w=1380&t=st=1679851158~exp=1679851758~hmac=0e62f1e83c0887732cadf060f98388bba6a429f133b36986d35f749a4f9d1a9f"
                     className="w-full relative z-30 lg:pr-20 px-6 py-14"
                   />
                 </div>
